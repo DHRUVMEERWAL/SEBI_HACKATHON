@@ -1,0 +1,6 @@
+[submodule "Image_Doc_analyzer"]
+	path = Image_Doc_analyzer
+	url = https://github.com/Deepansh1106/Image_Doc_analyzer
+[submodule "fraud-detector-ai"]
+	path = fraud-detector-ai
+	url = https://github.com/dhruvsagwal07-ai/fraud-detector-ai
